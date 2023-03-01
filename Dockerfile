@@ -1,4 +1,4 @@
-FROM debian:bullseye-20230208
+FROM debian:11
 
 LABEL maintainer "opsxcq@strm.sh"
 
